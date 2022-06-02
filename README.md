@@ -2,6 +2,11 @@
 
 ```
 Lemonade App, with a frontend built in React & Redux and a backend built in Django API.
+This is a mini e-commerce project that introduces a fresh and exciting way to sell leamonaid!
+It’s a great way to stay refreshed this summer by ordering refreshing leamonade
+with a single zesty click! Saves you the commute time and expense by placing your orders
+from the comfort of your home!
+
 ```
 
 ## Live Demo
