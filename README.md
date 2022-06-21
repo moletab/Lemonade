@@ -27,7 +27,7 @@ Check out [API LIVE DEMO](https://backend-srp.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/ptlsheetal/Lemonade.git
+git clone https://github.com/moletab/Lemonade.git
 ```
 
 2. Backend setting
