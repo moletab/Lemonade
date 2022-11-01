@@ -11,9 +11,9 @@ from the comfort of your home!
 
 ## Live Demo
 
-Check out [FRONTEND LIVE DEMO](https://frontend-srp.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://lemonade-frontend.moletab.repl.co/) here!!
 
-Check out [API LIVE DEMO](https://backend-srp.herokuapp.com/) here!!
+Check out [API LIVE DEMO]( https://lemonade-backend.moletab.repl.co/) here!!
 
 ## Tech used
 
